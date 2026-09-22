@@ -122,6 +122,7 @@ indexPairEtLongueurPaire(['red','green','purple','blue','yellow']);
 
 ```javascript
 function deplacerZeros(nombres) {
+  
 }
 
 deplacerZeros([2,0,3,0,40,3,6,0,10,11]);
